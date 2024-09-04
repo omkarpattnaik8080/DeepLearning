@@ -3,12 +3,19 @@ Welcome to my Deep Learning repository! This repository is a comprehensive colle
 
 Repository Structure
 Notebooks/: Jupyter notebooks covering various deep learning concepts, from basics to advanced topics.
+
 Projects/: End-to-end deep learning projects demonstrating real-world applications.
+
 Models/: Pre-trained models and custom architectures developed during experiments.
+
 Data/: Datasets used in the notebooks and projects (if not too large; otherwise, links to sources).
+
 Scripts/: Python scripts for data processing, model training, and evaluation.
+
 Docs/: Additional documentation, references, and resources.
+
 Getting Started
+
 Clone the Repository:
 
 bash
