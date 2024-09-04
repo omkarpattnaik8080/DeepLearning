@@ -18,7 +18,7 @@ Repository Structure
 
 Getting Started
 
-Clone the Repository:
+1. Clone the Repository:
 
 bash
 
@@ -38,7 +38,7 @@ pip install -r requirements.txt
 
 Explore the Notebooks: Start by exploring the notebooks in the Notebooks/ directory to get an understanding of various deep learning concepts.
 
-Key Learnings
+* Key Learnings
 
 Neural Networks: Understanding the basics of neural networks, activation functions, and backpropagation.
 
